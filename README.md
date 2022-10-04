@@ -7,7 +7,7 @@ Tenho 18 anos, moro em Barueri/SP e sou apaixonado por programação! Sou inicia
 
 📚| Tenho estudado PHP e iniciei meus estudos para desenvolver APIs;
 
-☕🎮| só acordo com café, adoro games e faço piadas ruins com certa frequência.
+☕|🎮| só acordo com café, adoro games e faço piadas ruins com certa frequência.
 
 📫| Você pode falar comigo pelo Instagram ou pelo Twitter (eu demoro a responder as vezes mas sou legal, juro 🙃) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
 <!--
