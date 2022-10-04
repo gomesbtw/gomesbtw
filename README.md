@@ -1,5 +1,5 @@
 ### 
-Olá, galera 🙃
+<strong><h1>Olá, galera 🙃</h1></strong>
 
 Tenho 18 anos, moro em Barueri/SP e sou apaixonado por programação! Sou iniciante no universo da programação, caçador oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! ❤
 
