@@ -1,5 +1,8 @@
 ### 
-Olá, me chamo Luan👋
+Olá, galera 🙃
+
+Tenho 18 anos, moro em Barueri/SP e sou apaixonado por programação! Sou iniciante no universo da programação, caçador oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! ❤
+
 🤿 Faço parte da Itpower e desenvolvo automações de navegação por tela;
 
 📚 Tenho estudado PHP e iniciei meus estudos para desenvolver APIs;
