@@ -1,5 +1,12 @@
 ### 
 Olá, me chamo Luan👋
+🤿 Faço parte da Itpower e desenvolvo automações de navegação por tela;
+
+📚 Tenho estudado PHP e iniciei meus estudos para desenvolver APIs;
+
+☕🎮 só acordo com café, adoro games e faço piadas ruins com certa frequência.
+
+📫 Você pode falar comigo pelo Instagram ou pelo Twitter (eu demoro a responder as vezes mas sou legal, juro 🙃) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
 <!--
 **gomesbtw/gomesbtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
