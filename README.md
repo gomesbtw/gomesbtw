@@ -9,7 +9,7 @@ Tenho 18 anos, moro em Barueri/SP e sou apaixonado por programação! Sou inicia
 
 ☕|🎮| só acordo com café, adoro games e faço piadas ruins com certa frequência.
 
-📫| Você pode falar comigo pelo Instagram ou pelo Twitter (eu demoro a responder as vezes mas sou legal, juro 🙃) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
+📫| Você pode falar comigo pelo <a href="https://www.instagram.com/_luan__ferreira/">Instagram</a> ou pelo <a href="https://www.linkedin.com/in/luangabrielferreira/">Linkedin</a> e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
 <!--
 **gomesbtw/gomesbtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
