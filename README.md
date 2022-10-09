@@ -10,20 +10,7 @@ Tenho 18 anos, moro em Barueri/SP e sou apaixonado por programação! Sou inicia
 ☕|🎮| só acordo com café, adoro games e faço piadas ruins com certa frequência.
 
 📫| Você pode falar comigo pelo <a href="https://www.instagram.com/_luan__ferreira/">Instagram</a> ou pelo <a href="https://www.linkedin.com/in/luangabrielferreira/">Linkedin</a> e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
-<!--
-**gomesbtw/gomesbtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <strong><h2>Ferramentas e Tecnologias:</h2></strong>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  width="40" height="40"/>
@@ -32,7 +19,6 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40" />
-<a href="https://www.flaticon.com/free-icons/coldfusion" title="coldfusion icons" width="40" height="40">Coldfusion icons created by Freepik - Flaticon</a>
 </p
 
 
